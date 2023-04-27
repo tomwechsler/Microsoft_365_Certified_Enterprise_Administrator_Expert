@@ -14,3 +14,4 @@ For more Information: https://aka.ms/CertPortfolioUpdatesBlog
 
 ## Note
 Please remember that you must meet one of the following prerequisite:
+![Complete one prerequisite](https://github.com/tomwechsler/Microsoft_365_Certified_Enterprise_Administrator_Expert/blob/main/Prerequisite.JPG)
