@@ -12,3 +12,5 @@ The Microsoft 365 Certified: Security Administrator Associate certification will
 On July 1, 2023, the Microsoft 365 Certified: Enterprise Administrator Expert certification will be renamed to Microsoft 365 Certified: Administrator Expert.
 For more Information: https://aka.ms/CertPortfolioUpdatesBlog
 
+## Note
+Please remember that you must meet one of the following prerequisite:
